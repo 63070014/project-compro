@@ -1,4 +1,4 @@
-<img src="https://github.com/63070014/project-compro/blob/main/photo/111.jpg?raw=true" width="1000px">
+<img src="https://github.com/63070014/project-compro/blob/main/photo/Photo(2).jpg?raw=true">
 <h4>[Link Youtube : Computer Programming Project | Coin Counting Machine]( ใส่ลิ้งค์ youtube )</h4>
 
 # About The Project
@@ -45,7 +45,7 @@
  </table></center>
 
 <h4>วิธีใช้งาน</h4>
-<img src="....">
+<img src="https://github.com/63070014/project-compro/blob/main/photo/Photo(1).jpg?raw=true">
 
 <h4>ประโยชน์ที่จะได้รับ</h4>
 <ol>
@@ -68,6 +68,8 @@
 <center><table>
  <tr>
   <th><img src="https://github.com/63070014/project-compro/blob/main/photo/119976555_2647863208801296_4114780648308336848_n(1).jpg?raw=true" height="175" width="175"></th>
+  <th><img src="https://github.com/63070014/project-compro/blob/main/photo/111(1).jpg?raw=true" height="175" width="175"></th>
+	 
  </tr>
  <tr>
   <th><p align="center">Nattapong Waijaree</p></th> 
