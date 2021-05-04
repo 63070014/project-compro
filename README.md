@@ -38,7 +38,7 @@
 <center><table>
  <tr>
   <th><img src="https://github.com/63070014/project-compro/blob/main/photo/picture1.jpg?raw=true" height="325"></th>
-  <th><img src="Photos/2.jpg" height="325"></th>
-  <th><img src="Photos/3.jpg" height="325"></th>
+  <th><img src="https://github.com/63070014/project-compro/blob/main/photo/picture2.jpg?raw=true" height="325"></th>
+  <th><img src="https://github.com/63070014/project-compro/blob/main/photo/picture3.jpg?raw=true" height="325"></th>
  </tr>
  </table></center>
