@@ -68,5 +68,16 @@
 <center><table>
  <tr>
   <th><img src="https://github.com/63070014/project-compro/blob/main/photo/119976555_2647863208801296_4114780648308336848_n(1).jpg?raw=true" height="175" width="175"></th>
+ </tr>
  <tr>
+  <th><p align="center"Nattapong Waijaree</p></th> 
+  <th><p align="center">Puntakarn Kaewsanghan</p></th>
+  <th><p align="center">Sirawit Bosri</p></th>
+  <th><p align="center">Amarit Nantapak</p></th>
+ </tr>
+ <tr>
+  <th><p align="center">63070055</p></th>
+  <th><p align="center">63070016</p></th>
+  <th><p align="center">63070014</p></th>
+  <th><p align="center">63070184</p></th>
 </table></center>
