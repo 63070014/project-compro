@@ -69,6 +69,8 @@
  <tr>
   <th><img src="https://github.com/63070014/project-compro/blob/main/photo/119976555_2647863208801296_4114780648308336848_n(1).jpg?raw=true" height="175" width="175"></th>
   <th><img src="https://github.com/63070014/project-compro/blob/main/photo/111(1).jpg?raw=true" height="175" width="175"></th>
+  <th><img src="https://github.com/63070014/project-compro/blob/main/photo/111(2).jpg?raw=true" height="175" width="175"></th>
+  <th><img src="https://github.com/63070014/project-compro/blob/main/photo/111(3).jpg?raw=true" height="175" width="175"></th>
 	 
  </tr>
  <tr>
