@@ -55,4 +55,18 @@
 </ol>
 
 <h3>โปสเตอร์</h3>
-<img src="https://github.com/63070014/project-compro/blob/main/photo/_Print%20compo.jpg?raw=true" width="1000px"> 
+<img src="https://github.com/63070014/project-compro/blob/main/photo/_Print%20compo.jpg?raw=true" width="1000px">
+
+# Team
+<ol>
+    <li>) 61070092 | นาย ธีรวัฒน์ ดอนเส</li>
+    <li>) 61070139 | นาย พันธกานต์ แก้วสังหาร</li>
+    <li>) 61070220 | นาย ศิรวิทย์ โบศรี</li>
+    <li>) 61070260 | นาย อมฤต นันทภักดิ์</li>
+</ol>
+
+<center><table>
+ <tr>
+  <th><img src="https://github.com/63070014/project-compro/blob/main/photo/119976555_2647863208801296_4114780648308336848_n(1).jpg?raw=true" height="175" width="175"></th>
+ <tr>
+</table></center>
