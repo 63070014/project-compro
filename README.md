@@ -19,10 +19,8 @@
 <ol>
   <li>Arduino UNO R3 พร้อมสาย USB &nbsp;&nbsp;1 &nbsp;&nbsp;ตัว<br><img src="https://github.com/63070014/project-compro/blob/main/photo/29464_210504(1).jpg" width="250"></li>
   <li>สายจั้ม ผู้-เมีย Jump Wire (Male to Female) &nbsp;&nbsp;20 &nbsp;&nbsp;เส้น<br><img src="https://github.com/63070014/project-compro/blob/main/photo/29464_210504(2).jpg" width="250"></li>
-  <li>20x Character 2004 LCD Module Black light Blue 5V for Arduino &nbsp;&nbsp;1 &nbsp;&nbsp;ตัว<br><img src="![image](https://user-images.githubusercontent.com/73680542/116971038-2c8e2980-ace3-11eb-8c26-5f0face373d4.png)
-" width="250"></li>
-  <li>FC-33 Electric Motor Speed Sensor count motor เซนเซอร์ก้ามปู &nbsp;&nbsp;3 &nbsp;&nbsp;ตัว<br><img src="![image](https://user-images.githubusercontent.com/73680542/116971085-40399000-ace3-11eb-9488-ece41cc104e3.png)
-" width="250"></li>
+  <li>20x Character 2004 LCD Module Black light Blue 5V for Arduino &nbsp;&nbsp;1 &nbsp;&nbsp;ตัว<br><img src="https://github.com/63070014/project-compro/blob/main/photo/29464_210504(3).jpg?raw=true" width="250"></li>
+  <li>FC-33 Electric Motor Speed Sensor count motor เซนเซอร์ก้ามปู &nbsp;&nbsp;3 &nbsp;&nbsp;ตัว<br><img src="https://github.com/63070014/project-compro/blob/main/photo/29464_210504(4).jpg?raw=true" width="250"></li>
 </ol>
 <h4>อุปกรณ์อื่นๆ</h4>
 <ol>
