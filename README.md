@@ -44,7 +44,7 @@
  </tr>
  <tr>
   <th><img src="https://github.com/63070014/project-compro/blob/main/photo/Photo(4).jpg?raw=true" height="315"></th>
-  <th><img src="https://github.com/63070014/project-compro/blob/main/photo/Photo(3).jpg?raw=true" height="315"></th>
+  <th><img src="https://github.com/63070014/project-compro/blob/main/photo/Photo(3).jpg?raw=true" height="315" weight="10"></th>
  </tr>
  </table></center>
 
