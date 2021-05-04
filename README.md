@@ -57,6 +57,11 @@
 <h3>โปสเตอร์</h3>
 <img src="https://github.com/63070014/project-compro/blob/main/photo/Poster-compro.jpg?raw=true" width="1000px">
 
+<h4>Code</h4>
+<img src="https://github.com/63070014/project-compro/blob/main/photo/code1.jpg?raw=true" width="1000px">
+<img src="https://github.com/63070014/project-compro/blob/main/photo/code2.jpg?raw=true" width="1000px"> 
+<img src="https://github.com/63070014/project-compro/blob/main/photo/code3.jpg?raw=true" width="1000px">
+
 # สมาชิกในทีม
 <ol>
     <li>) 63070055 | นาย ณัฐพงษ์  ไวยจรี</li>
