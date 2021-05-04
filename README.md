@@ -37,8 +37,8 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ใช้ลังทำเป็นทรงสี่เหลี่ยมโดยด้านขวาสุด จะเป็นช่องใส่เหรียญ หากหยอดเหรียญ 1 บาทจะเข้าช่องแรกและผ่านเซนเซอร์นับเหรียญ ต่อมา ช่องที่ 2 จะเป็นเหรียญ 5 และช่องสุดท้ายเป็นเหรียญ 10 โดย ทุกๆจะถูกเก็บช่วงล่างของกล่อง</p>
 <center><table>
  <tr>
-  <th><img src="https://github.com/63070014/project-compro/blob/main/photo/picture1.jpg?raw=true" height="325"></th>
-  <th><img src="https://github.com/63070014/project-compro/blob/main/photo/picture2.jpg?raw=true" height="325"></th>
-  <th><img src="https://github.com/63070014/project-compro/blob/main/photo/picture3.jpg?raw=true" height="325"></th>
+  <th><img src="https://github.com/63070014/project-compro/blob/main/photo/picture1.jpg?raw=true" height="315"></th>
+  <th><img src="https://github.com/63070014/project-compro/blob/main/photo/picture2.jpg?raw=true" height="315"></th>
+  <th><img src="https://github.com/63070014/project-compro/blob/main/photo/picture3.jpg?raw=true" height="315"></th>
  </tr>
  </table></center>
