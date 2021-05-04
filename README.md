@@ -57,7 +57,7 @@
 <h3>โปสเตอร์</h3>
 <img src="https://github.com/63070014/project-compro/blob/main/photo/_Print%20compo.jpg?raw=true" width="1000px">
 
-# Team
+# สมาชิกในทีม
 <ol>
     <li>) 63070055 | นาย ณัฐพงษ์  ไวยจรี</li>
     <li>) 63070016 | นาย จักราภัทร สุดใจ</li>
@@ -70,7 +70,7 @@
   <th><img src="https://github.com/63070014/project-compro/blob/main/photo/119976555_2647863208801296_4114780648308336848_n(1).jpg?raw=true" height="175" width="175"></th>
  </tr>
  <tr>
-  <th><p align="center"Nattapong Waijaree</p></th> 
+  <th><p align="center">Nattapong Waijaree</p></th> 
   <th><p align="center">Puntakarn Kaewsanghan</p></th>
   <th><p align="center">Sirawit Bosri</p></th>
   <th><p align="center">Amarit Nantapak</p></th>
