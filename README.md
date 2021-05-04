@@ -76,7 +76,7 @@
  <tr>
   <th><p align="center">Nattapong Waijaree</p></th> 
   <th><p align="center">Puntakarn Kaewsanghan</p></th>
-  <th><p align="center">Sirawit Bosri</p></th>
+  <th><p align="center">Kwanpitcha Imdod</p></th>
   <th><p align="center">Amarit Nantapak</p></th>
  </tr>
  <tr>
