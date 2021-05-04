@@ -1,3 +1,4 @@
+<img src="https://github.com/63070014/project-compro/blob/main/photo/111.jpg?raw=true" width="1000px">
 <h4>[Link Youtube : Computer Programming Project | Coin Counting Machine]( ใส่ลิ้งค์ youtube )</h4>
 
 # About The Project
