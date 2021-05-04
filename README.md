@@ -42,3 +42,16 @@
   <th><img src="https://github.com/63070014/project-compro/blob/main/photo/picture3.jpg?raw=true" height="315"></th>
  </tr>
  </table></center>
+
+<h4>วิธีใช้งาน</h4>
+<img src="....">
+
+<h4>ประโยชน์ที่จะได้รับ</h4>
+<ol>
+	<li>เป็นอุปกรณ์ในการนับจำนวนเหรียญ</li>
+	<li>สามารถคำนวณผลรวมเหรียญได้รวดเร็ว</li>
+	<li>เพื่ออำนวยความสะดวก และลดเวลาในการนับเหรียญด้วยมือซึ่งผลลัพธ์อาจจะไม่ถูกต้อง</li>
+</ol>
+
+<h3>โปสเตอร์</h3>
+<img src="https://github.com/63070014/project-compro/blob/main/photo/_Print%20compo.jpg?raw=true" width="1000px"> 
