@@ -55,7 +55,7 @@
 </ol>
 
 <h3>โปสเตอร์</h3>
-<img src="https://github.com/63070014/project-compro/blob/main/photo/_Print%20compo.jpg?raw=true" width="1000px">
+<img src="https://github.com/63070014/project-compro/blob/main/photo/Poster-compro.jpg?raw=true" width="1000px">
 
 # สมาชิกในทีม
 <ol>
