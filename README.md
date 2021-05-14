@@ -86,7 +86,7 @@
   <th><p align="center">Nattapong Waijaree</p></th> 
   <th><p align="center">Chakraphat Sudjai</p></th>
   <th><p align="center">Kwanpitcha Imdod</p></th>
-  <th><p align="center">Amarit Nantapak</p></th>
+  <th><p align="center">Apibun Somsri</p></th>
  </tr>
  <tr>
   <th><p align="center">63070055</p></th>
