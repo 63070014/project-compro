@@ -1,5 +1,5 @@
 <img src="https://github.com/63070014/project-compro/blob/main/photo/Photo(2).jpg?raw=true">
-<h4>[Link Youtube : Computer Programming Project | Coin Counting Machine]( ใส่ลิ้งค์ youtube )</h4>
+<h4>[Link Youtube : Computer Programming Project | Coin Counting Machine](https://www.youtube.com/watch?v=eRHNsnWLVWs)</h4>
 
 # About The Project
 <h4>ชื่อโครงงาน (Project Title) : Coin Counting Machine<br>ชนิดของโครงงาน (Project Type) : Micro-controller</h4>
